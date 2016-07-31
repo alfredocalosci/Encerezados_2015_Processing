@@ -1,5 +1,5 @@
-# Encerezados_2015_Processing
-Ejemplos, curso de Creative Coding - Agosto 2015
+# Encerezados_Processing
+Ejemplos, curso de Creative Coding - Agosto 2015/16/…
 
 Fundación Cerezales Antonino y Cinia
 http://www.fundacioncerezalesantoninoycinia.org/inicio
