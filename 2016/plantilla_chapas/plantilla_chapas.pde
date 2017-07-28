@@ -69,19 +69,19 @@ void draw() {
   // las lineas
   for (int n = 0; n< Lineas.size(); n++) {
     linea l = Lineas.get(n);
-    //l.display();
+    l.display();
   }
 
   // los aros
   for (int n = 0; n< Aros.size(); n++) {
     aro a = Aros.get(n);
-    //a.display();
+    a.display();
   }
 
   // los textos
   for (int n = 0; n< Textos.size(); n++) {
     texto t = Textos.get(n);
-    //t.display();
+    t.display();
   }
 
   // termina de grabar
@@ -188,7 +188,7 @@ void creaOtro() {
     float h = hue(c);
     float s = saturation(c);
     float b = brightness(c);
-    p.c = color(h,s,b);
+   // p.c = color(h,s,b);
     
   }
   
